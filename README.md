@@ -22,4 +22,4 @@ take an rgb led and pump out some bumping tunes... or you know, just tones
   * [bread board](https://www.dropbox.com/s/xtpqyt18t2eyk09/2013-10-09%2023.49.00.jpg)
   * [arduino](https://www.dropbox.com/s/cwrsi3ci5b49mrw/20131010_000306.jpg)
 
-* [see video](https://www.dropbox.com/s/5ovaim92tkgl8qp/20131009_235433.mp4)
+* [see video](http://youtu.be/D8WVL-BG0Ag)
