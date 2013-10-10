@@ -12,7 +12,8 @@ take an rgb led and pump out some bumping tunes... or you know, just tones
 * jumper wires
 * aligator clamps
 * head phones (or speakers)
-* 
+
+*note all the caps are optional, but they make the sound a lot nicer*
 
 ## setup
 
